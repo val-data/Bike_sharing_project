@@ -9,3 +9,4 @@ The data used was downloaded by a Coursera link from the Google Data Analytics c
 
 If you would like to see the step-by-step process you can check the following files: 
 + Data cleaning process - data_cleaning.md. The result is : April2026datasample.csv
++ Data analysis - finding the average ride by day, per user, max length of the ride per day and the mean ot trips per day. 
