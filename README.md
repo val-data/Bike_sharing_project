@@ -8,4 +8,4 @@ This is a case study from the Google Data Analytics course. It is about a fictio
 The data used was downloaded by a Coursera link from the Google Data Analytics course. It is provided by Motivate International Inc. under its license. It was downloaded as an Excel file.
 
 If you would like to see the step-by-step process you can check the following files: 
-+ Data cleaning process - data_cleaning.md
++ Data cleaning process - data_cleaning.md. The result is : April2026datasample.csv
