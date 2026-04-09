@@ -15,8 +15,7 @@ The data used was downloaded by a Coursera link from the Google Data Analytics c
 + Converted H:MM:SS strings into numeric values for calculation
 + Outlier findings: Found 266 outliers but they were too small amount to make a significant impact on the project results
 + Weekday mapping: 1 - Sunday; 7- Saturday
-+ Rider behaviour
-
++ Rider behaviour : Casual riders use the bike on average 9 mins longer than the Member riders. Sunday and Tuesday are the busies day of the week per number of rides, longest rides are done on the weekend. 
   
 <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/6e38da64-2bec-410c-bfc3-9fb33ca8573b" /> Repository structure:
 + csv: Contains summarized CSV files
