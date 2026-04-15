@@ -21,5 +21,11 @@ The data used was downloaded by a Coursera link from the Google Data Analytics c
 + csv: Contains summarized CSV files
 + scripts: Contains all the sql commands
 
+![Average Rides Per Day Dashboard]
+<img src="Screenshot.png" width="600">
+
+
+[Click here to view the interactive dashboard on Tableau Public]
+https://public.tableau.com/app/profile/valeria.kuteva/viz/Avrg_rides_per_day/Sheet1
 
 
