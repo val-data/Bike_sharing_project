@@ -3,7 +3,7 @@ Google certificate case study 1
 
 Project overview
 
-This is a case study from the Google Data Analytics course. It is about a fictional bike ride sharing company across Chicago. It analyzes is  the behaviour of "Casual" and "Member" riders. Its aim is to provide a strategy of how to turn casual into long-term riders or just to increase the number of members.
+This is a case study from the Google Data Analytics course. It is about a fictional bike ride sharing company across Chicago. It analyzes is  the behaviour of "Casual" and "Member" riders. Its aim is to provide a strategy of how to turn casual into long-term riders and to increase the number of members.
 
 The data used was downloaded by a Coursera link from the Google Data Analytics course. It is provided by Motivate International Inc. under its license. It was downloaded as an Excel file.
 
@@ -27,5 +27,20 @@ The data used was downloaded by a Coursera link from the Google Data Analytics c
 
 [Click here to view the interactive dashboard on Tableau Public]
 https://public.tableau.com/app/profile/valeria.kuteva/viz/Avrg_rides_per_day/Sheet1
+
+## Key Insights & Recommendations
+
+### 📊 Finding 1: Peak Demand Periods
+* **Observation:** The average rides per day of week spiked on the weekend, consistently exceeding the baseline average.
+* **Recommendation:** Increase bike availability during these peaks to reduce wait times and improve service reliability.
+
+### 📉 Finding 2: Mid-week Drop-off
+* **Observation:** Daily ride volume falls  below average in the mid-week period.
+* **Recommendation:** Consider targeted marketing promotions or "Week Pass" discounts to incentivize ridership during low-utilization periods.
+
+### 💡 Finding 3: Length of ride
+* **Observation:** Casual riders ride longer than the members.
+* **Recommendation:** Consider giving discounts to members if they ride on longer distances. Offer membership extra options for adding friends or family members.
+
 
 
